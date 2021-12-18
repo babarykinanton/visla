@@ -360,9 +360,9 @@
                     <li class="parent menu-item menu-item-type-post_type menu-item-object-page">
                     <a class="elementor-item menu-link" href="../projects/default.htm">Наши работы</a>
                 </li>
-                    <!--<li class="parent menu-item menu-item-type-post_type menu-item-object-page new-menu-item">
+                    <li class="parent menu-item menu-item-type-post_type menu-item-object-page new-menu-item">
                     <a class="elementor-item menu-link" href="../aktsii/default.htm">Акции</a>
-                </li>-->
+                </li>
                     <li class="parent menu-item menu-item-type-post_type menu-item-object-page">
                     <a class="elementor-item menu-link" href="default.htm" class='active'>Клиентам</a>
                 </li>
@@ -471,9 +471,9 @@
                     <li class="parent menu-item menu-item-type-post_type menu-item-object-page">
                     <a class="elementor-item menu-link" href="../projects/default.htm">Наши работы</a>
                 </li>
-                    <!--<li class="parent menu-item menu-item-type-post_type menu-item-object-page new-menu-item">
+                    <li class="parent menu-item menu-item-type-post_type menu-item-object-page new-menu-item">
                     <a class="elementor-item menu-link" href="../aktsii/default.htm">Акции</a>
-                </li>-->
+                </li>
                     <li class="parent menu-item menu-item-type-post_type menu-item-object-page">
                     <a class="elementor-item menu-link" href="default.htm" class='active'>Клиентам</a>
                 </li>
@@ -743,9 +743,9 @@
                                         <a class="elementor-post__thumbnail__link" href="../statii/dopolnitelnye-raboty/default.htm">
                                             <div class="elementor-post__thumbnail elementor-fit-height">
                                                 <img width="300" height="225"
-                                                     src="../upload/iblock/bd9/r2xdxpqg46m9hn7kfgzol4zl126oyz9q/pot16.jpg"
+                                                     src="../upload/iblock/bd9/r2xdxpqg46m9hn7kfgzol4zl126oyz9q/2_1024x444.jpg"
                                                      class="attachment-medium size-medium" alt="" loading="lazy"
-                                                     srcset="../upload/resize_cache/iblock/bd9/r2xdxpqg46m9hn7kfgzol4zl126oyz9q/300_300_1/pot16.jpg 300w, ../upload/iblock/bd9/r2xdxpqg46m9hn7kfgzol4zl126oyz9q/2_1024x444.jpg 1024w"
+                                                     srcset="../upload/resize_cache/iblock/bd9/r2xdxpqg46m9hn7kfgzol4zl126oyz9q/300_300_1/2_1024x444.jpg 300w, ../upload/iblock/bd9/r2xdxpqg46m9hn7kfgzol4zl126oyz9q/2_1024x444.jpg 1024w"
                                                      sizes="(max-width: 300px) 100vw, 300px">
                                             </div>
                                         </a>
